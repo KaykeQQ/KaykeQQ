@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="./assets/kayke-banner.png" width="100%" alt="Kayke Silva - Desenvolvedor Full Stack e Engenharia de Software" />
+<img src="./assets/banner-animado.gif" width="100%" alt="Kayke Queriquieri - Desenvolvedor Full Stack e Engenharia de Software" />
 
 <br />
 
