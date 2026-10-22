@@ -23,9 +23,9 @@
 
 ## `> whoami`
 
-Sou **Kayke Silva**, estudante de **Engenharia de Software** e desenvolvedor em formação, com foco em criar produtos digitais que unam **design, experiência do usuário e código bem estruturado**.
+Sou **Kayke Queriquieri**, estudante de **Engenharia de Software** e desenvolvedor em formação, com foco em criar produtos digitais que unam **design, experiência do usuário e código bem estruturado**.
 
-Tenho formação técnica em Informática e desenvolvo projetos envolvendo **interfaces web, back-end, bancos de dados e automação de processos**. Gosto de transformar problemas reais em soluções que as pessoas possam usar.
+Tenho formação técnica em Informática e desenvolvo projetos envolvendo **interfaces web, back-end, bancos de dados e automação de processos**.
 
 ```typescript
 const kayke = {
