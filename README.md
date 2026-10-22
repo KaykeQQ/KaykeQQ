@@ -36,33 +36,29 @@ const kayke = {
 };
 ```
 
-## `> tech_stack --show-all`
+## `tech_stack --show-all`
 
 <div align="center">
 
-**Linguagens e fundamentos**
+### Linguagens e fundamentos
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python&theme=dark&perline=5" alt="HTML, CSS, JavaScript, TypeScript e Python" />
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,cpp,cs,mysql" />
+</p>
 
-<br /><br />
+### Infraestrutura e ambiente
 
-**Front-end e back-end**
+<p>
+  <img src="https://img.shields.io/badge/Hardware-0D1117?style=for-the-badge&logo=pcgamingwiki&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redes-0D1117?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/VirtualBox-0D1117?style=for-the-badge&logo=virtualbox&logoColor=white" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,mysql&theme=dark&perline=6" alt="React, Vite, Tailwind CSS, Node.js, Express e MySQL" />
+### Automação e ferramentas
 
-<br /><br />
-
-**Ferramentas, design e deploy**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,cloudflare,ps&theme=dark&perline=7" alt="Git, GitHub, VS Code, Figma, Vercel, Cloudflare e Photoshop" />
-
-<br /><br />
-
-**Automação e testes**
-
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium" />
-<img src="https://img.shields.io/badge/PyAutoGUI-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="PyAutoGUI" />
+<p>
+  <img src="https://img.shields.io/badge/N8N-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</p>
 
 </div>
 
